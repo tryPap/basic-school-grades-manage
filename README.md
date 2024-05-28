@@ -1,4 +1,4 @@
-# studmk
+# Simple Student Maker
 Simple student maker.
 
 The user inputs name, surname, grade of the student.
