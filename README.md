@@ -1,5 +1,5 @@
 # Simple Student Maker
-Simple student maker.
+Simple student maker with node.js
 
 The user inputs name, surname, grade of the student.
 
