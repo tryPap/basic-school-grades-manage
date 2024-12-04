@@ -1,5 +1,5 @@
-# Simple Student Maker
-Simple student maker with node.js
+# Basic Student Management
+Student Management with node.js
 
 The user must input name, surname, grade of the student, then push the new student into an array.
 You have options to manipulate the data any time.
